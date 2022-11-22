@@ -28,79 +28,80 @@
                                             <input type="text" class="form-control">
                                         </div>
                                     
-                                </div>
-                                <div class="col-6">
+                                    </div>
+                                    <div class="col-6">
                                     <div class="form-group mb-3">
                                         <label class="label">Sobrenome</label>
                                         <input type="text" class="form-control">
                                     </div>
-                            </div>
-                            </div>
-                            <div class="form-group mb-3">
-                                <label class="label">E-mail</label>
-                                <input type="email" class="form-control">
-                            </div>
-                            <div class="form-group mb-3">
-                            <label class="label">Senha</label>
-                                <input type="password" class="form-control">
-                            </div>
-                            <div class="form-group mb-3">
-                            <label class="label">Confirmação da Senha</label>
-                                <input type="password" class="form-control">
-                            </div>
-                            <div class="form-group mb-3">
-                            <label class="label">Data de nascimento</label>
-                                <input type="date" class="form-control">
-                            </div>
-                            <div class="form-group mb-3">
-                            <label class="label">Endereço</label>
-                                <input type="text" class="form-control">
-                            </div>
-                            <div class="form-group mb-3">
-                            <label class="label">Número</label>
-                                <input type="number" class="form-control">
-                            </div>
-                            <div class="form-group mb-3">
-                            <label class="label">Cidade</label>
-                                <input type="text" class="form-control">
-                            </div>
-                            <div class="form-group mb-3">
-                            <label class="label">Estado</label>
-                            <select id="UF" name="UF">
-    <option value="">Selecione</option>
-    <option value="AC">AC</option>
-    <option value="AL">AL</option>
-    <option value="AP">AP</option>
-    <option value="AM">AM</option>
-    <option value="BA">BA</option>
-    <option value="CE">CE</option>
-    <option value="DF">DF</option>
-    <option value="ES">ES</option>
-    <option value="GO">GO</option>
-    <option value="MA">MA</option>
-    <option value="MS">MS</option>
-    <option value="MT">MT</option>
-    <option value="MG">MG</option>
-    <option value="PA">PA</option>
-    <option value="PB">PB</option>
-    <option value="PR">PR</option>
-    <option value="PE">PE</option>
-    <option value="PI">PI</option>
-    <option value="RJ">RJ</option>
-    <option value="RN">RN</option>
-    <option value="RS">RS</option>
-    <option value="RO">RO</option>
-    <option value="RR">RR</option>
-    <option value="SC">SC</option>
-    <option value="SP">SP</option>
-    <option value="SE">SE</option>
-    <option value="TO">TO</option>
- </select>
-                            </div>
-                            <div class="col-6">
-                        <img class="img" src="foto1.jpg" width="300px">
-                    </div>
-            </div>            
+                                    </div>
+                                </div>
+                                    <div class="form-group mb-3">
+                                        <label class="label">E-mail</label>
+                                        <input type="email" class="form-control">
+                                    </div>
+                                    <div class="form-group mb-3">
+                                        <label class="label">Senha</label>
+                                        <input type="password" class="form-control">
+                                    </div>
+                                    <div class="form-group mb-3">
+                                        <label class="label">Confirmação da Senha</label>
+                                        <input type="password" class="form-control">
+                                    </div>
+                                    <div class="form-group mb-3">
+                                        <label class="label">Data de nascimento</label>
+                                        <input type="date" class="form-control">
+                                    </div>
+                                    <div class="form-group mb-3">
+                                        <label class="label">Endereço</label>
+                                        <input type="text" class="form-control">
+                                    </div>
+                                    <div class="form-group mb-3">
+                                        <label class="label">Número</label>
+                                        <input type="number" class="form-control">
+                                    </div>
+                                    <div class="form-group mb-3">
+                                        <label class="label">Cidade</label>
+                                        <input type="text" class="form-control">
+                                    </div>
+                                    <div class="form-group mb-3">
+                                        <label class="label">Estado</label>
+                                    <select id="UF" name="UF">
+                                        <option value="">Selecione</option>
+                                        <option value="AC">AC</option>
+                                        <option value="AL">AL</option>
+                                        <option value="AP">AP</option>
+                                        <option value="AM">AM</option>
+                                        <option value="BA">BA</option>
+                                        <option value="CE">CE</option>
+                                        <option value="DF">DF</option>
+                                        <option value="ES">ES</option>
+                                        <option value="GO">GO</option>
+                                        <option value="MA">MA</option>
+                                        <option value="MS">MS</option>
+                                        <option value="MT">MT</option>
+                                        <option value="MG">MG</option>
+                                        <option value="PA">PA</option>
+                                        <option value="PB">PB</option>
+                                        <option value="PR">PR</option>
+                                        <option value="PE">PE</option>
+                                        <option value="PI">PI</option>
+                                        <option value="RJ">RJ</option>
+                                        <option value="RN">RN</option>
+                                        <option value="RS">RS</option>
+                                        <option value="RO">RO</option>
+                                        <option value="RR">RR</option>
+                                        <option value="SC">SC</option>
+                                        <option value="SP">SP</option>
+                                        <option value="SE">SE</option>
+                                        <option value="TO">TO</option>
+                                    </select>
+                                </div>
+                                <div class="col-6">
+                                    <img class="img" src="foto1.jpg" width="300px">
+                                </div>
+                            </form>    
+                        </div>            
 </head>
 <body>
     
